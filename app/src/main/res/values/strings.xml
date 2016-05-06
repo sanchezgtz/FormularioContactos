@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="tieNombre">Nombre completo</string>
+    <string name="tieDescripcion">Descripción Contacto</string>
+    <string name="tieEmail">Email</string>
+    <string name="tieTelefono">Télefono</string>
+    <string name="pNombre">nombre</string>
+    <string name="pTelefono">telefono</string>
+    <string name="pEmail">email</string>
+    <string name="pDescripcion">descripcion</string>
+    <string name="tituloConfirmar">Confirmar Datos</string>
+    <string name="msgFecha">Fecha Nacimiento:</string>
+    <string name="msgTelefono">Télefono:</string>
+    <string name="msgEmail">Email:</string>
+    <string name="msgDescripcion">Descripción:</string>
+    <string name="editar">Editar Datos</string>
+    <string name="separacion_titulo">25dp</string>
+    <string name="entreLineado">10dp</string>
+    <string name="pFechaNacimiento">fechaNacimiento</string>
+</resources>
